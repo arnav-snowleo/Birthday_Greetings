@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="textviewt">TextViewy</string>
+</resources>
